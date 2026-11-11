@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajapat Kavitha</h1>
 <h3 align="center">Blue Yonder Consultant | AI/ML & Full-Stack Developer</h3>
 
-
 - 💼 I’m currently working as a **Blue Yonder Consultant** at **Trivora Tech Consulting**, building UDT/UDP customisations, JDA SCPO UI enhancements, SQL/PL/SQL scripts, and Control-M batch workflows.
 - 🔭 I also build **Agentic AI & RAG systems**, including an **Autonomous Cognitive Engine (ACE)** using LangGraph, FAISS, and Llama 3.2.
 - 🌱 I’m currently exploring **Enterprise Supply Chain Optimization, Advanced LLM Orchestration, and Cloud Data Engineering**.
@@ -22,7 +21,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://angular.dev" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="angular" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="aws" width="40" height="40"/> </a>
   <a href="https://google.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="gcp" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="pandas" width="40" height="40"/> </a>
