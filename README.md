@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajapat Kavitha</h1>
 <h3 align="center">Blue Yonder Consultant | AI/ML & Full-Stack Developer</h3>
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>
-  <a href="https://hackerrank.com" target="_blank">
-    <img src="https://shields.io" alt="HackerRank"/>
-  </a>
-  <a href="mailto:prajapatkavitha0406@gmail.com">
-    <img src="https://shields.io" alt="Email"/>
-  </a>
-</p>
 
 - 💼 I’m currently working as a **Blue Yonder Consultant** at **Trivora Tech Consulting**, building UDT/UDP customisations, JDA SCPO UI enhancements, SQL/PL/SQL scripts, and Control-M batch workflows.
 - 🔭 I also build **Agentic AI & RAG systems**, including an **Autonomous Cognitive Engine (ACE)** using LangGraph, FAISS, and Llama 3.2.
