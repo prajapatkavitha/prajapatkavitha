@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajapat Kavitha</h1>
-<h3 align="center">Blue Yonder Consultant | AI/ML & Full-Stack Developer</h3>
+<h3 align="center">Associate Consultant – Blue Yonder (JDA SCPO) | AI/ML & Full-Stack Developer</h3>
 
-- 💼 I’m currently working as a **Blue Yonder Consultant** at **Trivora Tech Consulting**, building UDT/UDP customisations, JDA SCPO UI enhancements, SQL/PL/SQL scripts, and Control-M batch workflows.
+- 💼 I’m currently working as a **Associate Consultant – Blue Yonder (JDA SCPO)** at **Trivora Tech Consulting Pvt. Ltd.**, building UDT/UDP customisations, JDA SCPO UI enhancements, SQL/PL/SQL scripts, and Control-M batch workflows.
 - 🔭 I also build **Agentic AI & RAG systems**, including an **Autonomous Cognitive Engine (ACE)** using LangGraph, FAISS, and Llama 3.2.
 - 🌱 I’m currently exploring **Enterprise Supply Chain Optimization, Advanced LLM Orchestration, and Cloud Data Engineering**.
 - 💬 Ask me about **Blue Yonder (JDA SCPO), SQL, PL/SQL, Python, Java, Django, Generative AI, and Web Development**.
